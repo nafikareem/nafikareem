@@ -73,7 +73,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/seaborn/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo"  />
+  <img src="![image](https://github.com/user-attachments/assets/269edb48-ea19-4e2e-a953-8ff108627bb8)" height="40" alt="seaborn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit_learn/scikit_learn-original.svg" height="40" alt="scikit-learn logo"  />
   <img width="12" />
