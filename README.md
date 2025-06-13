@@ -94,7 +94,7 @@
 <div align="left">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo" />
   <img width="12" />
-  <img src="[https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png](https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png)" height="40" alt="langchain logo" />
+  <img src="[https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png](https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png)" height="40" alt="LangChain" />
 </div>
 
 ###
@@ -106,9 +106,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" height="40" alt="PowerBI" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" height="40" alt="tableau logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" height="40" alt="Tableau" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/looker-icon.svg" height="40" alt="looker studio logo" />
 </div>
