@@ -94,7 +94,7 @@
 <div align="left">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" height="40" alt="langchain logo" />
+  <img src="[https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png](https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png)" height="40" alt="langchain logo" />
 </div>
 
 ###
