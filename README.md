@@ -92,9 +92,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/huggingface/huggingface.js/main/packages/assets/hf-logo.svg" height="40" alt="huggingface logo" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/langchain-icon-light.svg" height="40" alt="langchain logo" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" height="40" alt="langchain logo" />
 </div>
 
 ###
@@ -104,13 +104,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss " />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/IBM_SPSS_logo.svg" height="40" alt="spss logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" height="40" alt="powerbi " />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
   <img width="12" />
-  <img src="https://www.tableau.com/sites/default/files/2023-07/Tableau-Icon-Gradient-Blue-RGB.svg" height="40" alt="tableau " />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/looker-icon.svg" height="40" alt="looker studio " />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/looker-icon.svg" height="40" alt="looker studio logo" />
 </div>
 
 ###
